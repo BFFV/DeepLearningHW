@@ -10,6 +10,9 @@ app/uploads/
 *.idea/
 *.vscode/
 
+# Datasets
+T1/flowers_dataset/
+
 # C extensions
 *.so
 
