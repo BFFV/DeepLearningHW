@@ -13,6 +13,9 @@ app/uploads/
 # Datasets
 T1/flowers_dataset/
 
+# Deep Learning
+*.pt
+
 # C extensions
 *.so
 
