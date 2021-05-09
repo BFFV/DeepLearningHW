@@ -12,6 +12,8 @@ app/uploads/
 
 # Datasets
 T1/flowers_dataset/
+T1/raccoon_dataset/
+T1/object_detection/
 
 # Deep Learning
 *.pt
