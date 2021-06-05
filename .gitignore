@@ -17,6 +17,7 @@ T1/object_detection/
 
 # Deep Learning
 *.pt
+*.vector_cache/
 
 # C extensions
 *.so
